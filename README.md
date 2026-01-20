@@ -4,7 +4,7 @@ A simple and interactive **BMI (Body Mass Index) Calculator** built with **React
 This project helps users calculate their BMI based on height and weight, and provides a category classification (Underweight, Normal, Overweight, Obese).
 
 #📸 Screenshots
-![Screenshot]()
+![Screenshot](public/bmical.png)
 ---
 
 ## 🚀 Features
